@@ -21,3 +21,8 @@ if country == '中国':
 		print('你可以考驾照')
 	else:
 		print('你还不能考驾照')
+elif country == '美国':
+	if age >= 16:
+		print('take you driving test')
+	else:
+		print('you can not take test')
