@@ -26,3 +26,6 @@ elif country == '美国':
 		print('take you driving test')
 	else:
 		print('you can not take test')
+else:
+	print('only US and China are available')
+	print('你只能输入中国或美国')
